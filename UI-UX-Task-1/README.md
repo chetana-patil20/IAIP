@@ -14,7 +14,7 @@ A mobile UI/UX design created using Figma as part of the Intern Alpha internship
 ## Prototype
 
 The Login and Sign Up screens are connected through a clickable Figma prototype.
-[View Figma Prototype]-https://www.figma.com/proto/nZWJgQwz9g34dHMC7JkD7k/Intern-Alpha---UI-UX-Task-1?node-id=0-1&t=QCo6RZz7OmQLOrKC-1](https://www.figma.com/proto/nZWJgQwz9g34dHMC7JkD7k/Intern-Alpha---UI-UX-Task-1?node-id=0-1&t=QCo6RZz7OmQLOrKC-1)-
+[View Figma Prototype]-[https://www.figma.com/proto/nZWJgQwz9g34dHMC7JkD7k/Intern-Alpha---UI-UX-Task-1?node-id=0-1&t=QCo6RZz7OmQLOrKC-1]
 
 ## Tool Used
 
