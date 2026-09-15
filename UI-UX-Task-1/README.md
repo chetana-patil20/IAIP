@@ -18,3 +18,17 @@ The Login and Sign Up screens are connected through a clickable Figma prototype.
 ## Tool Used
 
 - Figma
+  
+## Design Preview
+
+### Login - Light Mode
+![Login Light](login-light.png)
+
+### Sign Up - Light Mode
+![Sign Up Light](signup-light.png)
+
+### Login - Dark Mode
+![Login Dark](login-dark.png)
+
+### Sign Up - Dark Mode
+![Sign Up Dark](signup-dark.png)
