@@ -17,7 +17,9 @@ An e-commerce product page UI/UX design created using Figma as part of the Inter
 
 ## Design Preview
 
-The product page design will be displayed here.
+### E-Commerce Product Page
+
+![E-Commerce Product Page](product-page.png)
 
 ## Internship
 
